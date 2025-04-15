@@ -40,7 +40,7 @@ This repository showcases some of my main development projects and academic reco
 
 ---
 
-## 🎓 [Small College Project – CD Record Store](https://github.com/cesareds/GRAVADORA-CD-RECORDS-2.0)
+## 🎓 [Small College Project – Social Media](https://github.com/guilhermedd/site-SOFT)
 
 **Type:** Course Assignment – Web Application  
 **Technologies:** Ruby on Rails  
