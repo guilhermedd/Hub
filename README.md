@@ -5,6 +5,20 @@ This repository showcases some of my main development projects and academic reco
 
 ---
 
+## 🧠 [Paper Accepted – Cluster Computing (Springer)](https://link.springer.com/journal/10586)
+
+**Type:** Academic Publication  
+**Topic:** Knowledge-Based Job Scheduling for HPC  
+**Highlights:**
+- Co-authored a research paper accepted for publication in **Cluster Computing (Springer)** — an international journal ranked **Qualis A2** and indexed with **Scopus 87%**.
+- The study introduces AI techniques to improve job scheduling efficiency in high-performance computing environments.
+- Result of a research project developed during an undergraduate research scholarship (IC) at **UDESC**.
+
+> 🏆 A highly competitive venue for HPC research!
+
+
+---
+
 ## 🌿 [Website for a Religious Community](https://github.com/guilhermedd/SiteTerreiro)
 
 **Type:** Web Application  
