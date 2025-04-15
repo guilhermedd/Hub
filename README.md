@@ -5,7 +5,7 @@ This repository showcases some of my main development projects and academic reco
 
 ---
 
-## 🧠 [Paper Accepted – Cluster Computing (Springer)](https://link.springer.com/journal/10586)
+## 🧠 [Paper Accepted – Cluster Computing (Springer)](https://link.springer.com/article/10.1007/s10586-024-04734-7)
 
 **Type:** Academic Publication  
 **Topic:** Knowledge-Based Job Scheduling for HPC  
